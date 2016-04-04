@@ -8,8 +8,14 @@ warrant a full blog post.
 
 Did you learn something today? Please [contribute](CONTRIBUTING.md)!
 
-_0 TIL and counting..._
+_1 TIL and counting..._
 
-## Categories
+# Categories
+
+* [Java](#Java)
 
 ---
+
+## Java
+
+- [Enable Android Instrumentation Test](2016/April/03/java-enable-android-instrumentation-testing.md)
