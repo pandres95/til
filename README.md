@@ -19,9 +19,9 @@ _3 TILs and counting..._
 
 ## Java
 
-- [Enable Android Instrumentation Test](2016/April/03/java-enable-android-instrumentation-testing.md)
-- [How to teach Android "_correctly_"](2016/April/04/teaching-android-syllabus.md)
+- [Enable Android Instrumentation Test](Java/2016-04-03-enable-android-instrumentation-testing.md)
+- [How to teach Android "_correctly_"](Java/2016-04-04-a-teaching-android-syllabus.md)
 
 ## Web
 
-- [How OAuth2 works](2016/April/06/oauth-interaction-flow.md)
+- [How OAuth2 works](Web/2016-04-06-oauth-interaction-flow.md)
