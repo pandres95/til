@@ -8,7 +8,12 @@
   - Broadcasters
   - Receivers
 - Java (Design Patterns)
-  - ...
+  - Singleton
+  - Proxy
+  - Factory Method
+  - Observer
+  - Façade
+  - Adapter
 - Diseño UI
   - XML
   - Layouts
