@@ -10,7 +10,7 @@
 - Java (Design Patterns)
   - Singleton
   - Proxy
-  - Factory Method
+  - Builder
   - Observer
   - Façade
   - Adapter
